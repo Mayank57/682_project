@@ -1,1 +1,2 @@
-# 682_project
+Smart Surveillance: Person Recognition using Textual description
+
